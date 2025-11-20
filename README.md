@@ -1,7 +1,7 @@
 # Electric Vehicle Performance and Battery Analysis
 
 **Project Title:** AI-Based Analysis of Electric Vehicle Performance and Battery Life  
-**Internship Theme:** Electric Vehicles (AI + Green Skills) — Shell × Edunet × AICTE  
+**Internship Theme:** Electric Vehicles  — Shell × Edunet × AICTE  
 
 ---
 
@@ -132,3 +132,4 @@ All plots are **interactive** in the live dashboard.
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+
